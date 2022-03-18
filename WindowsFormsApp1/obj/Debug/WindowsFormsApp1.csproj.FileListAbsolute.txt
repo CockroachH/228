@@ -10,3 +10,4 @@ C:\Users\Student\Desktop\090302 Андросов\WindowsFormsApp1\WindowsFormsAp
 C:\Users\Student\Desktop\090302 Андросов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\Student\Desktop\090302 Андросов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
 C:\Users\Student\Desktop\090302 Андросов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.adminform228.resources
+C:\Users\Student\Desktop\090302 Андросов\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Teams.resources
