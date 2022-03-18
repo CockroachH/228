@@ -83,6 +83,17 @@ namespace WindowsFormsApp1.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap kisspng_computer_icons_arrow_encapsulated_postscript_left_arrow_5ac00b2411abe4_9149377515225352040724 {
+            get {
+                object obj = ResourceManager.GetObject("kisspng-computer-icons-arrow-encapsulated-postscript-left-arrow-5ac00b2411abe4.91" +
+                        "49377515225352040724", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Без_названия {
             get {
                 object obj = ResourceManager.GetObject("Без названия", resourceCulture);
